@@ -13,7 +13,7 @@ This repository focuses on work that demonstrates analytical problem-solving and
 | [Monte Carlo methods](03-monte-carlo/) | Importance sampling, self-avoiding walks, particle methods, Bayesian change-point modelling, extreme-value estimation | MATLAB code, data, three reports |
 | [Mathematical modelling](04-mathematical-modelling/) | Cost optimisation, dynamical systems, predator-prey models, symbolic and numerical analysis | Python, Jupyter notebooks, two reports |
 | [Time-series analysis](05-time-series/) | ARMA, Box-Jenkins modelling, Kalman filtering, prediction | MATLAB code, data, group report |
-| [Stationary stochastic processes](06-stochastic-processes/) | Covariance estimation, spectral analysis, filtering, signal data | Python and Jupyter notebooks |
+| [Stationary stochastic processes](06-stochastic-processes/) | Covariance estimation, spectral analysis, filtering, signal data | Python lab implementations |
 | [Derivative pricing](07-derivative-pricing/) | Binomial trees, Black-Scholes, Monte Carlo pricing and variance reduction | MATLAB lab implementations |
 
 ## Additional coursework
