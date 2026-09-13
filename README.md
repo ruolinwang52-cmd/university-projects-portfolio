@@ -19,7 +19,7 @@ This repository focuses on work that demonstrates analytical problem-solving and
 ## Additional coursework
 
 - [Python fundamentals](08-python-fundamentals/) — numerical programming, interval analysis, and introductory computational exercises.
-- [Linear algebra and statistics](09-linear-algebra-and-statistics/) — Python numerical analysis and R statistical labs.
+- [Statistics coursework](09-linear-algebra-and-statistics/) — introductory statistical simulation and exploratory analysis in R.
 - [Matrix computation](10-matrix-computation/) — MATLAB exercises involving eigenvalues and Jordan forms.
 
 ## Languages and tools
