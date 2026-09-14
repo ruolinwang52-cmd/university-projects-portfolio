@@ -8,6 +8,7 @@ This repository focuses on work that demonstrates analytical problem-solving and
 
 | Project | Topics | Materials |
 | --- | --- | --- |
+| [Master's thesis](11-masters-thesis/) | Harmonic functions, zero sets, uniqueness along planar curves | Individual thesis report |
 | [Bachelor's thesis](01-bachelors-thesis/) | Harmonic functions, uniqueness results, planar domains | Individual thesis report |
 | [Financial statistics project](02-financial-statistics-project/) | GARCH-family volatility models, option pricing, risk measures, portfolio analysis | MATLAB code, data, 41-page report |
 | [Monte Carlo methods](03-monte-carlo/) | Importance sampling, self-avoiding walks, particle methods, Bayesian change-point modelling, extreme-value estimation | MATLAB code, data, three reports |
@@ -32,7 +33,7 @@ This repository focuses on work that demonstrates analytical problem-solving and
 
 ## Notes on authorship and reproducibility
 
-The bachelor's thesis and financial statistics project are individual work. Some course assignments were completed collaboratively; original author names are retained in the corresponding reports, and no sole-authorship claim is made for those materials.
+The master's thesis, bachelor's thesis, and financial statistics project are individual work. The master's thesis acknowledges that it is based on joint work with Anders Olofsson. Some course assignments were completed collaboratively; original author names are retained in the corresponding reports, and no sole-authorship claim is made for those materials.
 
 This is an archival portfolio rather than a single software package. Some MATLAB scripts depend on course toolboxes, supplied datasets, or helper functions that are not redistributed here. Reports provide the clearest overview of the methods and results.
 
