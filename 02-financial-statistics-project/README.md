@@ -16,6 +16,7 @@ An individual, three-part empirical finance project covering volatility modellin
 - `Project_Part1.m`, `Project_Part2.m`, `Project_Part3.m` — MATLAB analysis for the three project parts
 - `lnL.m` — likelihood helper
 - `ASSETSA.csv`, `ASSETSB.csv` — portfolio datasets used by Part 3
+- [`DEPENDENCIES.md`](DEPENDENCIES.md) — exact MATLAB helper and data requirements
 
 ## Skills demonstrated
 
@@ -23,4 +24,4 @@ Maximum-likelihood estimation, volatility modelling, nonlinear filtering, out-of
 
 ## Reproducibility note
 
-Part 3 runs from the included CSV files. Parts 1 and 2 also rely on course-supplied `.mat` datasets and MATLAB helper functions that are not redistributed here. A copyrighted course helper used for one heavy-tailed likelihood specification is intentionally excluded.
+Part 3 runs from the included CSV files. See the dependency inventory for the course-supplied resources required by Parts 1 and 2.

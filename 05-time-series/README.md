@@ -18,6 +18,7 @@ A collaborative forecasting project using hourly air-temperature data from Hojba
 - [`report.pdf`](report.pdf) — complete 24-page project report
 - `project.m` — main MATLAB workflow
 - `projectData24.mat` — project dataset
+- [`DEPENDENCIES.md`](DEPENDENCIES.md) — complete transitive list of required teaching-library functions and MATLAB toolboxes
 
 ## Skills demonstrated
 

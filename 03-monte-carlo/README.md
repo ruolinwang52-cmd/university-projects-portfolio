@@ -16,6 +16,7 @@ Three collaborative assignments applying simulation and Bayesian computation to 
 - `proj1-1.m`, `proj2.m`, `proj3.m` — main MATLAB implementations
 - `est_gumbel.m`, `posterior.m` — supporting estimation functions
 - `atlantic.txt` — data used in the extreme-value analysis
+- [`DEPENDENCIES.md`](DEPENDENCIES.md) — toolbox and course-data requirements
 
 ## Skills demonstrated
 

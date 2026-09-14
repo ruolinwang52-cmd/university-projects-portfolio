@@ -17,6 +17,7 @@ MATLAB implementations of discrete- and continuous-time derivative-pricing metho
 
 - `lab1.m` — binomial-tree and discrete-time pricing exercises
 - `lab2.m` — Monte Carlo pricing, variance reduction, and continuous-time simulations
+- [`DEPENDENCIES.md`](DEPENDENCIES.md) — self-contained and optional external function audit
 
 ## Skills demonstrated
 
